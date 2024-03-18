@@ -2,6 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## This is a nextjs-routing-example for beginner 
 ## In this projext, you can learn the route rules of nextjs
+```
+  Routing
+  Nested Routes
+  Dynamic Routes
+  Nested Dynamix Routes
+  Catch all Segments
+  Not Found Page
+  File Colocation
+  Private Folders
+  Route Groups
+```
 
 ## Getting Started
 
