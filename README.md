@@ -1,2 +1,2 @@
-# nextjs-example
-nextjs-tutorial for beginner
+# nextjs-routing-example
+nextjs-tutorial(nextjs routing example) for beginner
