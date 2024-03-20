@@ -4,13 +4,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## In this project, you can learn the route rules of nextjs
 ```
   Routing
+
   Nested Routes
+
   Dynamic Routes
+
   Nested Dynamix Routes
+
   Catch all Segments
+
   Not Found Page
+
   File Colocation
+
   Private Folders
+
   Route Groups
 ```
 
